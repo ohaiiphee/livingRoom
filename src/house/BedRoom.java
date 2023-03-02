@@ -9,7 +9,7 @@ public class BedRoom {
         int postersRight;
         int postersLeft;
         int totalPosters;
-        //who sleeps there
+        //name of who sleeps there
         String name;
 
         windowSize = 2.8;
