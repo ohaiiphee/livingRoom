@@ -1,6 +1,7 @@
-package bedRoom;
+package house;
 
 public class BedRoom {
+
     public static void main(String[] args) {
         //window size
         double windowSize;
