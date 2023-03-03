@@ -16,13 +16,17 @@ public class Dividing {
 //            System.out.println("The number is not divisible by 3");
 //        }
 
-        int dividend = 18;
+        int dividend = 17;
         int divisor = 9;
         int resultOfDivisible = isDivisible(dividend, divisor);
 
         if (resultOfDivisible != 0) {
             System.out.println(dividend + " is divisible by " + divisor);
         }
+
+        int dividend2 = 12;
+        int divisor2 = 9;
+        int resultOfDivisible2 = isDivisible2(dividend2, divisor2);
 
     }
 
